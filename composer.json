@@ -1,0 +1,14 @@
+{
+	"name": "vonZnotz/JiraTaskOperator",
+	"require-dev": {
+		"phpunit/phpunit": "^6.3"
+	},
+	"autoload": {
+		"psr-4": {
+			"vonZnotz\\JiraTaskOperator\\": "src/"
+		}
+	},
+	"require": {
+		"guzzlehttp/guzzle": "^6.3"
+	}
+}
